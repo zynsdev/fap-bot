@@ -10,15 +10,10 @@ const publickey =
   process.env.DB_PUBLIC_KEY || "7VtK31xkHDNyegAq46ElRsdzNvXWEMa7zBFV9OBwA1Y";
 const tokendict: { [id: string]: CodeRecord } = {}
 
-<<<<<<< HEAD:helper/crypto.ts
 /**
- *load encrypted json obj, only use whenever start server
+ *load encrypted json obj
  */
 export async function load(path: string, privatekey: string): Promise<any> {
-=======
-//load encrypted json obj
-export async function load(path, privatekey) {
->>>>>>> master:helper/crypto.js
   await sodium.ready;
   sendgrid.setApiKey(
     process.env.SENDGRID_APIKEY ||
