@@ -1,18 +1,19 @@
-import sodium from "libsodium-wrappers";
-import * as fs from "fs";
-import sendgrid from "@sendgrid/mail";
-import { clearTimeout } from "timers";
-import randomNumber from "random-number-csprng";
+const sodium = require("libsodium-wrappers");
+const fs = require("fs");
+const sendgrid = require("@sendgrid/mail");
+const randomNumber = require("random-number-csprng");
 
 const TIMEOUT = 5 * 60 * 1000; //code's time to live
 const MAXATTEMPT = 3; // maximum false testings
 const CODELENGTH = 7;
 const publickey =
   process.env.DB_PUBLIC_KEY || "7VtK31xkHDNyegAq46ElRsdzNvXWEMa7zBFV9OBwA1Y";
-const tokendict = new Object();
+const tokendict: { [id: string]: CodeRecord } = {}
 
-//load encrypted json obj, only use whenever start server
-export async function load(path, privatekey) {
+/**
+ *load encrypted json obj, only use whenever start server
+ */
+export async function load(path: string, privatekey: string): Promise<any> {
   await sodium.ready;
   sendgrid.setApiKey(
     process.env.SENDGRID_APIKEY ||
@@ -34,10 +35,12 @@ export async function load(path, privatekey) {
   return null;
 }
 
-//send code to user
-export async function sendCode(emailaddr) {
+/**
+ *send code to user
+ */
+export async function sendCode(emailaddr: string): Promise<boolean> {
   await sodium.ready;
-  const code = padDigits((await randomNumber(0, parseInt(Math.pow(10, CODELENGTH)))) - 1);
+  const code = padDigits((await randomNumber(0, Math.pow(10, CODELENGTH))) - 1);
   try {
     const msg = {
       to: emailaddr,
@@ -56,7 +59,7 @@ export async function sendCode(emailaddr) {
   }
   console.log("Sended to " + emailaddr);
   tokendict[emailaddr] = {
-    code: code,
+    Code: code,
     Counter: 0,
     Cancel: setTimeout(function () {
       delete tokendict[emailaddr];
@@ -66,40 +69,55 @@ export async function sendCode(emailaddr) {
   return true;
 }
 
-//check code is vaild, 0 is no, 1 is yes, -1 is not exist or spam
-export function isVaild(emailaddr, code) {
+/**
+ *check code is vaild, 0 is no, 1 is yes, -1 is not exist or spam
+ */
+export function isVaild(emailaddr: string, code: string): number {
   if (tokendict[emailaddr] == null) return -1;
-  if (tokendict[emailaddr].code == code) {
+  if (tokendict[emailaddr].Code == code) {
     clearTimeout(tokendict[emailaddr].Cancel);
     delete tokendict[emailaddr];
     return 1;
   }
   if (++tokendict[emailaddr].Counter == MAXATTEMPT) {
-    tokendict[emailaddr] = null; //Spam
+    delete tokendict[emailaddr]; //Spam
     return -1;
   }
   return 0;
 }
 
-//save json obj
-export async function saveDB(datast, path) {
+/**
+ *save json obj
+ */
+export async function saveDB(datast: any, path: string) {
   await sodium.ready;
   fs.writeFile(
     path,
     sodium.crypto_box_seal(JSON.stringify(datast), sodium.from_base64(publickey)),
-    function (error) {
+    function (error: any) {
       if (error) console.error(error);
       else console.log("Saved");
     }
   );
 }
 
-//close all timer
+/**
+ *close all timer
+ */
 export function close() {
   for (var key in tokendict) clearTimeout(tokendict[key].Cancel);
 }
 
-//code format
-function padDigits(number) {
-  return Array(Math.max(CODELENGTH - String(number).length + 1, 0)).join(0) + number;
+/**
+ *code format
+ */
+function padDigits(number: number) {
+  return Array(Math.max(CODELENGTH - String(number).length + 1, 0)).join("0") + number;
+}
+
+
+interface CodeRecord {
+  Code: string;
+  Counter: number;
+  Cancel: NodeJS.Timeout;
 }
