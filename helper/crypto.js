@@ -11,7 +11,7 @@ const publickey =
   process.env.DB_PUBLIC_KEY || "7VtK31xkHDNyegAq46ElRsdzNvXWEMa7zBFV9OBwA1Y";
 const tokendict = new Object();
 
-//load encrypted json obj, only use whenever start server
+//load encrypted json obj
 export async function load(path, privatekey) {
   await sodium.ready;
   sendgrid.setApiKey(
