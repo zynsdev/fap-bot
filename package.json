@@ -1,0 +1,15 @@
+{
+  "name": "fap-bot",
+  "version": "1.0.0",
+  "description": "Messenger Bot to remind Class Schelude",
+  "main": "app.js",
+  "repository": "https://github.com/zynsdev/fap-bot",
+  "author": "Zyns Nohara",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.7.0"
+  },
+  "devDependencies": {
+    "playwright-cli": "^0.170.0"
+  }
+}
