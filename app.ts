@@ -1,6 +1,3 @@
-import * as dotenv from 'dotenv';
-import crawler from './helper/crawler';
-dotenv.config()
+import fetch from './helper/fetchCycle';
 
-
-crawler()
+fetch();

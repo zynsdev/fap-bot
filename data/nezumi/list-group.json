@@ -1,0 +1,6129 @@
+{
+    "1800": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "1",
+                "Room": "201",
+                "Lecturer": "teacher5"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "2",
+                "Room": "201",
+                "Lecturer": "teacher5"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "3",
+                "Room": "201",
+                "Lecturer": "teacher5"
+            }
+        ],
+        "CourseCode": "DBW301"
+    },
+    "1801": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "1",
+                "Room": "201",
+                "Lecturer": "thuyntm9"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "2",
+                "Room": "201",
+                "Lecturer": "thuyntm9"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "3",
+                "Room": "201",
+                "Lecturer": "thuyntm9"
+            }
+        ],
+        "CourseCode": "MAS291"
+    },
+    "1803": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "1",
+                "Room": "201",
+                "Lecturer": "hanhnt54"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "2",
+                "Room": "201",
+                "Lecturer": "hanhnt54"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "3",
+                "Room": "201",
+                "Lecturer": "hanhnt54"
+            }
+        ],
+        "CourseCode": "PRX301"
+    },
+    "1804": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "1",
+                "Room": "202",
+                "Lecturer": "hiendq"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "2",
+                "Room": "202",
+                "Lecturer": "hiendq"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "3",
+                "Room": "202",
+                "Lecturer": "hiendq"
+            }
+        ],
+        "CourseCode": "JFE301"
+    },
+    "1806": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "4",
+                "Room": "204",
+                "Lecturer": "chucnv3"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "5",
+                "Room": "204",
+                "Lecturer": "chucnv3"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "6",
+                "Room": "204",
+                "Lecturer": "chucnv3"
+            }
+        ],
+        "CourseCode": "DBW301"
+    },
+    "1807": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "4",
+                "Room": "204",
+                "Lecturer": "thuyntm9"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "5",
+                "Room": "204",
+                "Lecturer": "thuyntm9"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "6",
+                "Room": "204",
+                "Lecturer": "thuyntm9"
+            }
+        ],
+        "CourseCode": "MAS291"
+    },
+    "1808": {
+        "Schedule": [
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "4",
+                "Room": "204",
+                "Lecturer": "thaitv"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "5",
+                "Room": "204",
+                "Lecturer": "thaitv"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "6",
+                "Room": "204",
+                "Lecturer": "thaitv"
+            }
+        ],
+        "CourseCode": "MLN101"
+    },
+    "1809": {
+        "Schedule": [
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "6",
+                "Room": "204",
+                "Lecturer": "longnx6"
+            }
+        ],
+        "CourseCode": "PMG201c"
+    },
+    "1810": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "4",
+                "Room": "204",
+                "Lecturer": "ThinNS"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "5",
+                "Room": "204",
+                "Lecturer": "ThinNS"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "6",
+                "Room": "204",
+                "Lecturer": "ThinNS"
+            }
+        ],
+        "CourseCode": "PRX301"
+    },
+    "1812": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "4",
+                "Room": "205",
+                "Lecturer": "thuyntm9"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "5",
+                "Room": "205",
+                "Lecturer": "thuyntm9"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "6",
+                "Room": "205",
+                "Lecturer": "thuyntm9"
+            }
+        ],
+        "CourseCode": "MAS291"
+    },
+    "1813": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "4",
+                "Room": "205",
+                "Lecturer": "thaitv"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "5",
+                "Room": "205",
+                "Lecturer": "thaitv"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "6",
+                "Room": "205",
+                "Lecturer": "thaitv"
+            }
+        ],
+        "CourseCode": "MLN101"
+    },
+    "1814": {
+        "Schedule": [
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "4",
+                "Room": "205",
+                "Lecturer": "hanhnt54"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "5",
+                "Room": "205",
+                "Lecturer": "hanhnt54"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "6",
+                "Room": "205",
+                "Lecturer": "hanhnt54"
+            }
+        ],
+        "CourseCode": "PRX301"
+    },
+    "1815": {
+        "Schedule": [],
+        "CourseCode": "HCM201"
+    },
+    "1816": {
+        "Schedule": [],
+        "CourseCode": "ITA203c"
+    },
+    "1818": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "6",
+                "Room": "201",
+                "Lecturer": "trangntd11"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "5",
+                "Room": "201",
+                "Lecturer": "trangntd11"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "6",
+                "Room": "201",
+                "Lecturer": "trangntd11"
+            }
+        ],
+        "CourseCode": "SSC102"
+    },
+    "1819": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "4",
+                "Room": "201",
+                "Lecturer": "hanhth8"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "5",
+                "Room": "201",
+                "Lecturer": "hanhth8"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "6",
+                "Room": "201",
+                "Lecturer": "hanhth8"
+            }
+        ],
+        "CourseCode": "VNR201"
+    },
+    "1821": {
+        "Schedule": [
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "1",
+                "Room": "201",
+                "Lecturer": "tunc11"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "2",
+                "Room": "201",
+                "Lecturer": "tunc11"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "3",
+                "Room": "201",
+                "Lecturer": "tunc11"
+            }
+        ],
+        "CourseCode": "MAS291"
+    },
+    "1822": {
+        "Schedule": [],
+        "CourseCode": "PMG201c"
+    },
+    "1823": {
+        "Schedule": [
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "1",
+                "Room": "205",
+                "Lecturer": "longnx6"
+            }
+        ],
+        "CourseCode": "PMG201c"
+    },
+    "1825": {
+        "Schedule": [
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "1",
+                "Room": "204",
+                "Lecturer": "hoangvd7"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "2",
+                "Room": "204",
+                "Lecturer": "hoangvd7"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "3",
+                "Room": "204",
+                "Lecturer": "hoangvd7"
+            }
+        ],
+        "CourseCode": "LAB231"
+    },
+    "1826": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "1",
+                "Room": "204",
+                "Lecturer": "loinv20"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "2",
+                "Room": "204",
+                "Lecturer": "loinv20"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "3",
+                "Room": "204",
+                "Lecturer": "loinv20"
+            }
+        ],
+        "CourseCode": "PRN292"
+    },
+    "1827": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "1",
+                "Room": "204",
+                "Lecturer": "longnq9"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "2",
+                "Room": "204",
+                "Lecturer": "longnq9"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "3",
+                "Room": "204",
+                "Lecturer": "longnq9"
+            }
+        ],
+        "CourseCode": "SWR302"
+    },
+    "1828": {
+        "Schedule": [
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "1",
+                "Room": "204",
+                "Lecturer": "vunq10"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "2",
+                "Room": "204",
+                "Lecturer": "vunq10"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "3",
+                "Room": "204",
+                "Lecturer": "vunq10"
+            }
+        ],
+        "CourseCode": "SWT301"
+    },
+    "1829": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "3",
+                "Room": "204",
+                "Lecturer": "thuydt63"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "1",
+                "Room": "204",
+                "Lecturer": "thuydt63"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "2",
+                "Room": "204",
+                "Lecturer": "thuydt63"
+            }
+        ],
+        "CourseCode": "JPD133"
+    },
+    "1830": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "1",
+                "Room": "205",
+                "Lecturer": "thuydt63"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "2",
+                "Room": "205",
+                "Lecturer": "thuydt63"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "3",
+                "Room": "205",
+                "Lecturer": "thuydt63"
+            }
+        ],
+        "CourseCode": "JPD133"
+    },
+    "1831": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "1",
+                "Room": "205",
+                "Lecturer": "sondt31"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "2",
+                "Room": "205",
+                "Lecturer": "sondt31"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "3",
+                "Room": "205",
+                "Lecturer": "sondt31"
+            }
+        ],
+        "CourseCode": "LAB231"
+    },
+    "1832": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "1",
+                "Room": "205",
+                "Lecturer": "loinv20"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "2",
+                "Room": "205",
+                "Lecturer": "loinv20"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "3",
+                "Room": "205",
+                "Lecturer": "loinv20"
+            }
+        ],
+        "CourseCode": "PRN292"
+    },
+    "1833": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "3",
+                "Room": "205",
+                "Lecturer": "longnq9"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "1",
+                "Room": "205",
+                "Lecturer": "longnq9"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "2",
+                "Room": "205",
+                "Lecturer": "longnq9"
+            }
+        ],
+        "CourseCode": "SWR302"
+    },
+    "1834": {
+        "Schedule": [
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "1",
+                "Room": "205",
+                "Lecturer": "vunq10"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "2",
+                "Room": "205",
+                "Lecturer": "vunq10"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "3",
+                "Room": "205",
+                "Lecturer": "vunq10"
+            }
+        ],
+        "CourseCode": "SWT301"
+    },
+    "1839": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "1",
+                "Room": "206",
+                "Lecturer": "thanhnt196"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "2",
+                "Room": "206",
+                "Lecturer": "thanhnt196"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "3",
+                "Room": "206",
+                "Lecturer": "thanhnt196"
+            }
+        ],
+        "CourseCode": "JPD123"
+    },
+    "1840": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "1",
+                "Room": "206",
+                "Lecturer": "linhttn11"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "2",
+                "Room": "206",
+                "Lecturer": "linhttn11"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "3",
+                "Room": "206",
+                "Lecturer": "linhttn11"
+            }
+        ],
+        "CourseCode": "LAB221"
+    },
+    "1841": {
+        "Schedule": [
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "1",
+                "Room": "206",
+                "Lecturer": "tranlq"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "2",
+                "Room": "206",
+                "Lecturer": "tranlq"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "3",
+                "Room": "206",
+                "Lecturer": "tranlq"
+            }
+        ],
+        "CourseCode": "PRJ321"
+    },
+    "1842": {
+        "Schedule": [
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "1",
+                "Room": "206",
+                "Lecturer": "hoant154"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "2",
+                "Room": "206",
+                "Lecturer": "hoant154"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "3",
+                "Room": "206",
+                "Lecturer": "hoant154"
+            }
+        ],
+        "CourseCode": "SWE102"
+    },
+    "1843": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "1",
+                "Room": "310",
+                "Lecturer": "trapt4"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "2",
+                "Room": "310",
+                "Lecturer": "trapt4"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "3",
+                "Room": "310",
+                "Lecturer": "trapt4"
+            }
+        ],
+        "CourseCode": "IOT102"
+    },
+    "1845": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "5",
+                "Room": "310",
+                "Lecturer": "trapt4"
+            }
+        ],
+        "CourseCode": "SWE201c"
+    },
+    "1846": {
+        "Schedule": [
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "4",
+                "Room": "207",
+                "Lecturer": "thanhnt196"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "5",
+                "Room": "207",
+                "Lecturer": "thanhnt196"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "6",
+                "Room": "207",
+                "Lecturer": "thanhnt196"
+            }
+        ],
+        "CourseCode": "JPD133"
+    },
+    "1847": {
+        "Schedule": [
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "4",
+                "Room": "207",
+                "Lecturer": "sondt31"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "5",
+                "Room": "207",
+                "Lecturer": "sondt31"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "6",
+                "Room": "207",
+                "Lecturer": "sondt31"
+            }
+        ],
+        "CourseCode": "LAB231"
+    },
+    "1848": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "4",
+                "Room": "207",
+                "Lecturer": "TraLTB"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "5",
+                "Room": "207",
+                "Lecturer": "TraLTB"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "6",
+                "Room": "207",
+                "Lecturer": "TraLTB"
+            }
+        ],
+        "CourseCode": "PRN292"
+    },
+    "1849": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "4",
+                "Room": "207",
+                "Lecturer": "longnq9"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "5",
+                "Room": "207",
+                "Lecturer": "longnq9"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "6",
+                "Room": "207",
+                "Lecturer": "longnq9"
+            }
+        ],
+        "CourseCode": "SWR302"
+    },
+    "1850": {
+        "Schedule": [
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "4",
+                "Room": "207",
+                "Lecturer": "vunq10"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "5",
+                "Room": "207",
+                "Lecturer": "vunq10"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "6",
+                "Room": "207",
+                "Lecturer": "vunq10"
+            }
+        ],
+        "CourseCode": "SWT301"
+    },
+    "1851": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "6",
+                "Room": "208",
+                "Lecturer": "thuydt63"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "4",
+                "Room": "208",
+                "Lecturer": "thuydt63"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "5",
+                "Room": "208",
+                "Lecturer": "thuydt63"
+            }
+        ],
+        "CourseCode": "JPD133"
+    },
+    "1852": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "4",
+                "Room": "208",
+                "Lecturer": "tranlq"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "5",
+                "Room": "208",
+                "Lecturer": "tranlq"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "6",
+                "Room": "208",
+                "Lecturer": "tranlq"
+            }
+        ],
+        "CourseCode": "LAB231"
+    },
+    "1853": {
+        "Schedule": [
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "1",
+                "Room": "208",
+                "Lecturer": "phuongdh13"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "2",
+                "Room": "208",
+                "Lecturer": "phuongdh13"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "3",
+                "Room": "208",
+                "Lecturer": "phuongdh13"
+            }
+        ],
+        "CourseCode": "PRN292"
+    },
+    "1854": {
+        "Schedule": [
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "4",
+                "Room": "208",
+                "Lecturer": "teacher3"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "5",
+                "Room": "208",
+                "Lecturer": "teacher3"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "6",
+                "Room": "208",
+                "Lecturer": "teacher3"
+            }
+        ],
+        "CourseCode": "SWR302"
+    },
+    "1855": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "4",
+                "Room": "208",
+                "Lecturer": "tanl"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "5",
+                "Room": "208",
+                "Lecturer": "tanl"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "6",
+                "Room": "208",
+                "Lecturer": "tanl"
+            }
+        ],
+        "CourseCode": "SWT301"
+    },
+    "1856": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "4",
+                "Room": "209",
+                "Lecturer": "thuydt63"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "5",
+                "Room": "209",
+                "Lecturer": "thuydt63"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "6",
+                "Room": "209",
+                "Lecturer": "thuydt63"
+            }
+        ],
+        "CourseCode": "JPD133"
+    },
+    "1857": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "4",
+                "Room": "209",
+                "Lecturer": "thintm5"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "5",
+                "Room": "209",
+                "Lecturer": "thintm5"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "6",
+                "Room": "209",
+                "Lecturer": "thintm5"
+            }
+        ],
+        "CourseCode": "LAB231"
+    },
+    "1858": {
+        "Schedule": [
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "4",
+                "Room": "209",
+                "Lecturer": "phuongdh13"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "5",
+                "Room": "209",
+                "Lecturer": "phuongdh13"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "6",
+                "Room": "209",
+                "Lecturer": "phuongdh13"
+            }
+        ],
+        "CourseCode": "PRN292"
+    },
+    "1859": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "6",
+                "Room": "209",
+                "Lecturer": "longnx6"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "4",
+                "Room": "209",
+                "Lecturer": "longnx6"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "5",
+                "Room": "209",
+                "Lecturer": "longnx6"
+            }
+        ],
+        "CourseCode": "SWR302"
+    },
+    "1860": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "4",
+                "Room": "209",
+                "Lecturer": "tanl"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "5",
+                "Room": "209",
+                "Lecturer": "tanl"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "6",
+                "Room": "209",
+                "Lecturer": "tanl"
+            }
+        ],
+        "CourseCode": "SWT301"
+    },
+    "1861": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "4",
+                "Room": "302",
+                "Lecturer": "thanhnt196"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "5",
+                "Room": "302",
+                "Lecturer": "thanhnt196"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "6",
+                "Room": "302",
+                "Lecturer": "thanhnt196"
+            }
+        ],
+        "CourseCode": "JPD123"
+    },
+    "1862": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "4",
+                "Room": "302",
+                "Lecturer": "linhttn11"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "5",
+                "Room": "302",
+                "Lecturer": "linhttn11"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "6",
+                "Room": "302",
+                "Lecturer": "linhttn11"
+            }
+        ],
+        "CourseCode": "LAB221"
+    },
+    "1863": {
+        "Schedule": [
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "4",
+                "Room": "302",
+                "Lecturer": "teacher4"
+            }
+        ],
+        "CourseCode": "NWC203c"
+    },
+    "1864": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "4",
+                "Room": "302",
+                "Lecturer": "hoangvd7"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "5",
+                "Room": "302",
+                "Lecturer": "hoangvd7"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "6",
+                "Room": "302",
+                "Lecturer": "hoangvd7"
+            }
+        ],
+        "CourseCode": "PRJ321"
+    },
+    "1865": {
+        "Schedule": [
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "4",
+                "Room": "302",
+                "Lecturer": "trapt4"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "5",
+                "Room": "302",
+                "Lecturer": "trapt4"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "6",
+                "Room": "302",
+                "Lecturer": "trapt4"
+            }
+        ],
+        "CourseCode": "SWE102"
+    },
+    "1866": {
+        "Schedule": [],
+        "CourseCode": "NWC203c"
+    },
+    "1867": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "1",
+                "Room": "207",
+                "Lecturer": "phihv3"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "2",
+                "Room": "207",
+                "Lecturer": "phihv3"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "3",
+                "Room": "207",
+                "Lecturer": "phihv3"
+            }
+        ],
+        "CourseCode": "CSD201"
+    },
+    "1868": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "3",
+                "Room": "207",
+                "Lecturer": "tamnp4"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "1",
+                "Room": "207",
+                "Lecturer": "tamnp4"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "2",
+                "Room": "207",
+                "Lecturer": "tamnp4"
+            }
+        ],
+        "CourseCode": "DBI202"
+    },
+    "1870": {
+        "Schedule": [
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "1",
+                "Room": "207",
+                "Lecturer": "TanHT9"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "2",
+                "Room": "207",
+                "Lecturer": "TanHT9"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "3",
+                "Room": "207",
+                "Lecturer": "TanHT9"
+            }
+        ],
+        "CourseCode": "LAB211"
+    },
+    "1871": {
+        "Schedule": [
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "1",
+                "Room": "208",
+                "Lecturer": "phihv3"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "2",
+                "Room": "208",
+                "Lecturer": "phihv3"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "3",
+                "Room": "208",
+                "Lecturer": "phihv3"
+            }
+        ],
+        "CourseCode": "CSD201"
+    },
+    "1872": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "1",
+                "Room": "208",
+                "Lecturer": "tamnp4"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "2",
+                "Room": "208",
+                "Lecturer": "tamnp4"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "3",
+                "Room": "208",
+                "Lecturer": "tamnp4"
+            }
+        ],
+        "CourseCode": "DBI202"
+    },
+    "1874": {
+        "Schedule": [
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "1",
+                "Room": "208",
+                "Lecturer": "thintm5"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "2",
+                "Room": "208",
+                "Lecturer": "thintm5"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "3",
+                "Room": "208",
+                "Lecturer": "thintm5"
+            }
+        ],
+        "CourseCode": "LAB211"
+    },
+    "1877": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "6",
+                "Room": "206",
+                "Lecturer": "trapt4"
+            }
+        ],
+        "CourseCode": "WED201c"
+    },
+    "1878": {
+        "Schedule": [],
+        "CourseCode": "WED201c"
+    },
+    "1879": {
+        "Schedule": [
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "1",
+                "Room": "209",
+                "Lecturer": "teacher1"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "2",
+                "Room": "209",
+                "Lecturer": "teacher1"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "3",
+                "Room": "209",
+                "Lecturer": "teacher1"
+            }
+        ],
+        "CourseCode": "MAD101"
+    },
+    "1880": {
+        "Schedule": [],
+        "CourseCode": "NWC203c"
+    },
+    "1881": {
+        "Schedule": [
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "1",
+                "Room": "209",
+                "Lecturer": "TienTHT"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "2",
+                "Room": "209",
+                "Lecturer": "TienTHT"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "3",
+                "Room": "209",
+                "Lecturer": "TienTHT"
+            }
+        ],
+        "CourseCode": "OSG202"
+    },
+    "1882": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "3",
+                "Room": "209",
+                "Lecturer": "thintm5"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "2",
+                "Room": "209",
+                "Lecturer": "thintm5"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "3",
+                "Room": "209",
+                "Lecturer": "thintm5"
+            }
+        ],
+        "CourseCode": "PRO192"
+    },
+    "1883": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "1",
+                "Room": "209",
+                "Lecturer": "longnvk"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "2",
+                "Room": "209",
+                "Lecturer": "longnvk"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "1",
+                "Room": "209",
+                "Lecturer": "longnvk"
+            }
+        ],
+        "CourseCode": "SSG103"
+    },
+    "1884": {
+        "Schedule": [
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "1",
+                "Room": "210",
+                "Lecturer": "anhtn35"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "2",
+                "Room": "210",
+                "Lecturer": "anhtn35"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "3",
+                "Room": "210",
+                "Lecturer": "anhtn35"
+            }
+        ],
+        "CourseCode": "MAD101"
+    },
+    "1885": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "6",
+                "Room": "202",
+                "Lecturer": "longnq9"
+            }
+        ],
+        "CourseCode": "NWC203c"
+    },
+    "1886": {
+        "Schedule": [
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "1",
+                "Room": "210",
+                "Lecturer": "binhdd2"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "2",
+                "Room": "210",
+                "Lecturer": "binhdd2"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "3",
+                "Room": "210",
+                "Lecturer": "binhdd2"
+            }
+        ],
+        "CourseCode": "OSG202"
+    },
+    "1887": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "1",
+                "Room": "210",
+                "Lecturer": "thintm5"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "2",
+                "Room": "210",
+                "Lecturer": "thintm5"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "1",
+                "Room": "210",
+                "Lecturer": "thintm5"
+            }
+        ],
+        "CourseCode": "PRO192"
+    },
+    "1888": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "3",
+                "Room": "210",
+                "Lecturer": "longnvk"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "2",
+                "Room": "210",
+                "Lecturer": "longnvk"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "3",
+                "Room": "210",
+                "Lecturer": "longnvk"
+            }
+        ],
+        "CourseCode": "SSG103"
+    },
+    "1927": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "1",
+                "Room": "311",
+                "Lecturer": "JabellanaMEP"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "2",
+                "Room": "311",
+                "Lecturer": "JabellanaMEP"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "1",
+                "Room": "311",
+                "Lecturer": "JabellanaMEP"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "2",
+                "Room": "311",
+                "Lecturer": "JabellanaMEP"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "1",
+                "Room": "311",
+                "Lecturer": "JabellanaMEP"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "2",
+                "Room": "311",
+                "Lecturer": "JabellanaMEP"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "1",
+                "Room": "311",
+                "Lecturer": "JabellanaMEP"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "2",
+                "Room": "311",
+                "Lecturer": "JabellanaMEP"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "1",
+                "Room": "311",
+                "Lecturer": "JabellanaMEP"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "2",
+                "Room": "311",
+                "Lecturer": "JabellanaMEP"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "1",
+                "Room": "311",
+                "Lecturer": "JabellanaMEP"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "2",
+                "Room": "311",
+                "Lecturer": "JabellanaMEP"
+            }
+        ],
+        "CourseCode": "ENT503"
+    },
+    "1928": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "3",
+                "Room": "311",
+                "Lecturer": "Karla"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "4",
+                "Room": "311",
+                "Lecturer": "Karla"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "3",
+                "Room": "311",
+                "Lecturer": "Karla"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "4",
+                "Room": "311",
+                "Lecturer": "Karla"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "3",
+                "Room": "311",
+                "Lecturer": "Karla"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "4",
+                "Room": "311",
+                "Lecturer": "Karla"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "3",
+                "Room": "311",
+                "Lecturer": "Karla"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "4",
+                "Room": "311",
+                "Lecturer": "Karla"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "3",
+                "Room": "311",
+                "Lecturer": "Karla"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "4",
+                "Room": "311",
+                "Lecturer": "Karla"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "3",
+                "Room": "311",
+                "Lecturer": "Karla"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "4",
+                "Room": "311",
+                "Lecturer": "Karla"
+            }
+        ],
+        "CourseCode": "ENT503"
+    },
+    "1929": {
+        "Schedule": [
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "4",
+                "Room": "210",
+                "Lecturer": "anhtn35"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "5",
+                "Room": "210",
+                "Lecturer": "anhtn35"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "6",
+                "Room": "210",
+                "Lecturer": "anhtn35"
+            }
+        ],
+        "CourseCode": "CSD201"
+    },
+    "1930": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "4",
+                "Room": "210",
+                "Lecturer": "NgocLTM8"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "5",
+                "Room": "210",
+                "Lecturer": "NgocLTM8"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "6",
+                "Room": "210",
+                "Lecturer": "NgocLTM8"
+            }
+        ],
+        "CourseCode": "DBI202"
+    },
+    "1931": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "4",
+                "Room": "210",
+                "Lecturer": "thuydt63"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "5",
+                "Room": "210",
+                "Lecturer": "KazuneN"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "6",
+                "Room": "210",
+                "Lecturer": "KazuneN"
+            }
+        ],
+        "CourseCode": "JPD113"
+    },
+    "1932": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "6",
+                "Room": "210",
+                "Lecturer": "tranlq"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "4",
+                "Room": "210",
+                "Lecturer": "tranlq"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "5",
+                "Room": "210",
+                "Lecturer": "tranlq"
+            }
+        ],
+        "CourseCode": "LAB211"
+    },
+    "1933": {
+        "Schedule": [],
+        "CourseCode": "WED201c"
+    },
+    "1934": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "4",
+                "Room": "211",
+                "Lecturer": "anhtn35"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "5",
+                "Room": "211",
+                "Lecturer": "anhtn35"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "6",
+                "Room": "211",
+                "Lecturer": "anhtn35"
+            }
+        ],
+        "CourseCode": "MAD101"
+    },
+    "1935": {
+        "Schedule": [
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "5",
+                "Room": "211",
+                "Lecturer": "teacher4"
+            }
+        ],
+        "CourseCode": "NWC203c"
+    },
+    "1936": {
+        "Schedule": [
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "4",
+                "Room": "211",
+                "Lecturer": "binhdd2"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "5",
+                "Room": "211",
+                "Lecturer": "binhdd2"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "6",
+                "Room": "211",
+                "Lecturer": "binhdd2"
+            }
+        ],
+        "CourseCode": "OSG202"
+    },
+    "1937": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "4",
+                "Room": "211",
+                "Lecturer": "tranlq"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "5",
+                "Room": "211",
+                "Lecturer": "tranlq"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "6",
+                "Room": "211",
+                "Lecturer": "tranlq"
+            }
+        ],
+        "CourseCode": "PRO192"
+    },
+    "1938": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "5",
+                "Room": "211",
+                "Lecturer": "longnvk"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "6",
+                "Room": "211",
+                "Lecturer": "longnvk"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "6",
+                "Room": "211",
+                "Lecturer": "longnvk"
+            }
+        ],
+        "CourseCode": "SSG103"
+    },
+    "1939": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "1",
+                "Room": "211",
+                "Lecturer": "phuongpa3"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "2",
+                "Room": "211",
+                "Lecturer": "phuongpa3"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "3",
+                "Room": "211",
+                "Lecturer": "phuongpa3"
+            }
+        ],
+        "CourseCode": "MAD101"
+    },
+    "1940": {
+        "Schedule": [
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "6",
+                "Room": "212",
+                "Lecturer": "teacher4"
+            }
+        ],
+        "CourseCode": "NWC203c"
+    },
+    "1942": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "4",
+                "Room": "213",
+                "Lecturer": "phuongpa3"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "5",
+                "Room": "213",
+                "Lecturer": "phuongpa3"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "6",
+                "Room": "213",
+                "Lecturer": "phuongpa3"
+            }
+        ],
+        "CourseCode": "MAD101"
+    },
+    "1943": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "1",
+                "Room": "213",
+                "Lecturer": "teacher4"
+            }
+        ],
+        "CourseCode": "NWC203c"
+    },
+    "1944": {
+        "Schedule": [
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "4",
+                "Room": "213",
+                "Lecturer": "tranlq"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "5",
+                "Room": "213",
+                "Lecturer": "tranlq"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "6",
+                "Room": "213",
+                "Lecturer": "tranlq"
+            }
+        ],
+        "CourseCode": "PRO192"
+    },
+    "1945": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "4",
+                "Room": "213",
+                "Lecturer": "longt3"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "4",
+                "Room": "213",
+                "Lecturer": "longt3"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "5",
+                "Room": "213",
+                "Lecturer": "longt3"
+            }
+        ],
+        "CourseCode": "SSG103"
+    },
+    "1946": {
+        "Schedule": [
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "1",
+                "Room": "211",
+                "Lecturer": "quangnva"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "2",
+                "Room": "211",
+                "Lecturer": "quangnva"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "3",
+                "Room": "211",
+                "Lecturer": "quangnva"
+            }
+        ],
+        "CourseCode": "CEA201"
+    },
+    "1947": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "1",
+                "Room": "211",
+                "Lecturer": "longnq9"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "2",
+                "Room": "211",
+                "Lecturer": "longnq9"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "3",
+                "Room": "211",
+                "Lecturer": "longnq9"
+            }
+        ],
+        "CourseCode": "CSI104"
+    },
+    "1948": {
+        "Schedule": [
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "1",
+                "Room": "211",
+                "Lecturer": "ngaltt17"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "2",
+                "Room": "211",
+                "Lecturer": "ngaltt17"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "3",
+                "Room": "211",
+                "Lecturer": "ngaltt17"
+            }
+        ],
+        "CourseCode": "MAE101"
+    },
+    "1949": {
+        "Schedule": [
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "1",
+                "Room": "211",
+                "Lecturer": "hiennd19"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "2",
+                "Room": "211",
+                "Lecturer": "hiennd19"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "3",
+                "Room": "211",
+                "Lecturer": "hiennd19"
+            }
+        ],
+        "CourseCode": "PRF192"
+    },
+    "1950": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "2",
+                "Room": "314",
+                "Lecturer": "trangntd11"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "3",
+                "Room": "314",
+                "Lecturer": "trangntd11"
+            }
+        ],
+        "CourseCode": "SSL101c"
+    },
+    "1951": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "4",
+                "Room": "214",
+                "Lecturer": "sontt32"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "5",
+                "Room": "214",
+                "Lecturer": "sontt32"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "6",
+                "Room": "214",
+                "Lecturer": "sontt32"
+            }
+        ],
+        "CourseCode": "CSI104"
+    },
+    "1952": {
+        "Schedule": [
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "4",
+                "Room": "214",
+                "Lecturer": "tunc11"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "5",
+                "Room": "214",
+                "Lecturer": "tunc11"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "6",
+                "Room": "214",
+                "Lecturer": "tunc11"
+            }
+        ],
+        "CourseCode": "MAE101"
+    },
+    "1953": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "4",
+                "Room": "214",
+                "Lecturer": "hiennd19"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "5",
+                "Room": "214",
+                "Lecturer": "hiennd19"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "6",
+                "Room": "214",
+                "Lecturer": "hiennd19"
+            }
+        ],
+        "CourseCode": "PRF192"
+    },
+    "1955": {
+        "Schedule": [
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "5",
+                "Room": "214",
+                "Lecturer": "trangntd11"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "6",
+                "Room": "214",
+                "Lecturer": "trangntd11"
+            }
+        ],
+        "CourseCode": "SSL101c"
+    },
+    "1956": {
+        "Schedule": [
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "4",
+                "Room": "215",
+                "Lecturer": "hiendq"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "5",
+                "Room": "215",
+                "Lecturer": "hiendq"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "6",
+                "Room": "215",
+                "Lecturer": "hiendq"
+            }
+        ],
+        "CourseCode": "CEA201"
+    },
+    "1957": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "4",
+                "Room": "215",
+                "Lecturer": "longnq9"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "5",
+                "Room": "215",
+                "Lecturer": "longnq9"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "6",
+                "Room": "215",
+                "Lecturer": "longnq9"
+            }
+        ],
+        "CourseCode": "CSI104"
+    },
+    "1958": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "4",
+                "Room": "215",
+                "Lecturer": "ngaltt17"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "5",
+                "Room": "215",
+                "Lecturer": "ngaltt17"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "6",
+                "Room": "215",
+                "Lecturer": "ngaltt17"
+            }
+        ],
+        "CourseCode": "MAE101"
+    },
+    "1959": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "4",
+                "Room": "215",
+                "Lecturer": "tamnp4"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "5",
+                "Room": "215",
+                "Lecturer": "tamnp4"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "6",
+                "Room": "215",
+                "Lecturer": "tamnp4"
+            }
+        ],
+        "CourseCode": "PRF192"
+    },
+    "1960": {
+        "Schedule": [
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "4",
+                "Room": "212",
+                "Lecturer": "tientht"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "5",
+                "Room": "212",
+                "Lecturer": "tientht"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "6",
+                "Room": "212",
+                "Lecturer": "tientht"
+            }
+        ],
+        "CourseCode": "OSG202"
+    },
+    "1961": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "4",
+                "Room": "212",
+                "Lecturer": "ngaltt17"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "5",
+                "Room": "212",
+                "Lecturer": "ngaltt17"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "6",
+                "Room": "212",
+                "Lecturer": "ngaltt17"
+            }
+        ],
+        "CourseCode": "PRO192"
+    },
+    "1962": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "4",
+                "Room": "214",
+                "Lecturer": "hiendq"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "5",
+                "Room": "214",
+                "Lecturer": "hiendq"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "6",
+                "Room": "214",
+                "Lecturer": "hiendq"
+            }
+        ],
+        "CourseCode": "CEA201"
+    },
+    "1963": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "2",
+                "Room": "308",
+                "Lecturer": "trangntd11"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "3",
+                "Room": "308",
+                "Lecturer": "trangntd11"
+            }
+        ],
+        "CourseCode": "SSL101c"
+    },
+    "1964": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "4",
+                "Room": "212",
+                "Lecturer": "longnvk"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "4",
+                "Room": "212",
+                "Lecturer": "longnvk"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "5",
+                "Room": "212",
+                "Lecturer": "longnvk"
+            }
+        ],
+        "CourseCode": "SSG103"
+    },
+    "1965": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "5",
+                "Room": "213",
+                "Lecturer": "quangnva"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "6",
+                "Room": "213",
+                "Lecturer": "quangnva"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "6",
+                "Room": "213",
+                "Lecturer": "quangnva"
+            }
+        ],
+        "CourseCode": "OSG202"
+    },
+    "1966": {
+        "Schedule": [
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "1",
+                "Room": "201",
+                "Lecturer": "langntm"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "2",
+                "Room": "201",
+                "Lecturer": "langntm"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "1",
+                "Room": "201",
+                "Lecturer": "langntm"
+            }
+        ],
+        "CourseCode": "MLN101"
+    },
+    "1968": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "5",
+                "Room": "311",
+                "Lecturer": "GabeMGM"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "6",
+                "Room": "311",
+                "Lecturer": "GabeMGM"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "5",
+                "Room": "311",
+                "Lecturer": "GabeMGM"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "6",
+                "Room": "311",
+                "Lecturer": "GabeMGM"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "5",
+                "Room": "311",
+                "Lecturer": "GabeMGM"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "6",
+                "Room": "311",
+                "Lecturer": "GabeMGM"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "5",
+                "Room": "311",
+                "Lecturer": "GabeMGM"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "6",
+                "Room": "311",
+                "Lecturer": "GabeMGM"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "5",
+                "Room": "311",
+                "Lecturer": "GabeMGM"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "6",
+                "Room": "311",
+                "Lecturer": "GabeMGM"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "5",
+                "Room": "311",
+                "Lecturer": "GabeMGM"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "6",
+                "Room": "311",
+                "Lecturer": "GabeMGM"
+            }
+        ],
+        "CourseCode": "ENT503"
+    },
+    "1969": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "1",
+                "Room": "312",
+                "Lecturer": "MaryGaleBO"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "2",
+                "Room": "312",
+                "Lecturer": "MaryGaleBO"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "1",
+                "Room": "312",
+                "Lecturer": "MaryGaleBO"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "2",
+                "Room": "312",
+                "Lecturer": "MaryGaleBO"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "1",
+                "Room": "312",
+                "Lecturer": "MaryGaleBO"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "2",
+                "Room": "312",
+                "Lecturer": "MaryGaleBO"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "1",
+                "Room": "312",
+                "Lecturer": "MaryGaleBO"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "2",
+                "Room": "312",
+                "Lecturer": "MaryGaleBO"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "1",
+                "Room": "312",
+                "Lecturer": "MaryGaleBO"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "2",
+                "Room": "312",
+                "Lecturer": "MaryGaleBO"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "1",
+                "Room": "312",
+                "Lecturer": "MaryGaleBO"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "2",
+                "Room": "312",
+                "Lecturer": "MaryGaleBO"
+            }
+        ],
+        "CourseCode": "ENT503"
+    },
+    "1970": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "3",
+                "Room": "312",
+                "Lecturer": "CricynthiaDB"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "4",
+                "Room": "312",
+                "Lecturer": "CricynthiaDB"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "3",
+                "Room": "312",
+                "Lecturer": "CricynthiaDB"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "4",
+                "Room": "312",
+                "Lecturer": "CricynthiaDB"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "3",
+                "Room": "312",
+                "Lecturer": "CricynthiaDB"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "4",
+                "Room": "312",
+                "Lecturer": "CricynthiaDB"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "3",
+                "Room": "312",
+                "Lecturer": "CricynthiaDB"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "4",
+                "Room": "312",
+                "Lecturer": "CricynthiaDB"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "4(_ChangeRoom)",
+                "Room": "314",
+                "Lecturer": "CricynthiaDB"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "5(_ChangeRoom)",
+                "Room": "314",
+                "Lecturer": "CricynthiaDB"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "3",
+                "Room": "312",
+                "Lecturer": "CricynthiaDB"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "4",
+                "Room": "312",
+                "Lecturer": "CricynthiaDB"
+            }
+        ],
+        "CourseCode": "ENT503"
+    },
+    "1971": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "3",
+                "Room": "212",
+                "Lecturer": "thanhnt190"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "1",
+                "Room": "212",
+                "Lecturer": "thanhnt190"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "2",
+                "Room": "212",
+                "Lecturer": "thanhnt190"
+            }
+        ],
+        "CourseCode": "CHN132"
+    },
+    "1973": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "5",
+                "Room": "312",
+                "Lecturer": "Jireh"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "6",
+                "Room": "312",
+                "Lecturer": "Jireh"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "5",
+                "Room": "312",
+                "Lecturer": "Jireh"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "6",
+                "Room": "312",
+                "Lecturer": "Jireh"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "5",
+                "Room": "312",
+                "Lecturer": "Jireh"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "6",
+                "Room": "312",
+                "Lecturer": "Jireh"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "5",
+                "Room": "312",
+                "Lecturer": "Jireh"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "6",
+                "Room": "312",
+                "Lecturer": "Jireh"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "5",
+                "Room": "312",
+                "Lecturer": "Jireh"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "6",
+                "Room": "312",
+                "Lecturer": "Jireh"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "5",
+                "Room": "312",
+                "Lecturer": "Jireh"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "6",
+                "Room": "312",
+                "Lecturer": "Jireh"
+            }
+        ],
+        "CourseCode": "ENT503"
+    },
+    "1977": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "1",
+                "Room": "212",
+                "Lecturer": "tungtm"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "2",
+                "Room": "212",
+                "Lecturer": "tungtm"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "3",
+                "Room": "212",
+                "Lecturer": "tungtm"
+            }
+        ],
+        "CourseCode": "MKT308"
+    },
+    "1978": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "1",
+                "Room": "212",
+                "Lecturer": "tranghna"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "2",
+                "Room": "212",
+                "Lecturer": "tranghna"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "3",
+                "Room": "212",
+                "Lecturer": "tranghna"
+            }
+        ],
+        "CourseCode": "SSC101"
+    },
+    "1979": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "1",
+                "Room": "313",
+                "Lecturer": "MaryAnnDRM"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "2",
+                "Room": "313",
+                "Lecturer": "MaryAnnDRM"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "1",
+                "Room": "313",
+                "Lecturer": "MaryAnnDRM"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "2",
+                "Room": "313",
+                "Lecturer": "MaryAnnDRM"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "1",
+                "Room": "313",
+                "Lecturer": "MaryAnnDRM"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "2",
+                "Room": "313",
+                "Lecturer": "MaryAnnDRM"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "1",
+                "Room": "313",
+                "Lecturer": "MaryAnnDRM"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "2",
+                "Room": "313",
+                "Lecturer": "MaryAnnDRM"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "1",
+                "Room": "313",
+                "Lecturer": "MaryAnnDRM"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "2",
+                "Room": "313",
+                "Lecturer": "MaryAnnDRM"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "1",
+                "Room": "313",
+                "Lecturer": "MaryAnnDRM"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "2",
+                "Room": "313",
+                "Lecturer": "MaryAnnDRM"
+            }
+        ],
+        "CourseCode": "ENT503"
+    },
+    "1980": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "3",
+                "Room": "313",
+                "Lecturer": "Lilibeth"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "4",
+                "Room": "313",
+                "Lecturer": "Lilibeth"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "3",
+                "Room": "313",
+                "Lecturer": "Lilibeth"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "4",
+                "Room": "313",
+                "Lecturer": "Lilibeth"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "3",
+                "Room": "313",
+                "Lecturer": "Lilibeth"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "4",
+                "Room": "313",
+                "Lecturer": "Lilibeth"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "3",
+                "Room": "313",
+                "Lecturer": "Lilibeth"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "4",
+                "Room": "313",
+                "Lecturer": "Lilibeth"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "3",
+                "Room": "313",
+                "Lecturer": "Lilibeth"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "4",
+                "Room": "313",
+                "Lecturer": "Lilibeth"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "3",
+                "Room": "313",
+                "Lecturer": "Lilibeth"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "4",
+                "Room": "313",
+                "Lecturer": "Lilibeth"
+            }
+        ],
+        "CourseCode": "ENT503"
+    },
+    "1982": {
+        "Schedule": [
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "1",
+                "Room": "213",
+                "Lecturer": ""
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "2",
+                "Room": "213",
+                "Lecturer": ""
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "3",
+                "Room": "213",
+                "Lecturer": ""
+            }
+        ],
+        "CourseCode": "CHN132"
+    },
+    "1983": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "2",
+                "Room": "213",
+                "Lecturer": "trangpth27"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "3",
+                "Room": "213",
+                "Lecturer": "trangpth27"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "3",
+                "Room": "213",
+                "Lecturer": "trangpth27"
+            }
+        ],
+        "CourseCode": "MKT202"
+    },
+    "1984": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "1",
+                "Room": "217",
+                "Lecturer": "hanhltm13"
+            }
+        ],
+        "CourseCode": "OBE102c"
+    },
+    "1985": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "1",
+                "Room": "213",
+                "Lecturer": "hanhltm13"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "1",
+                "Room": "213",
+                "Lecturer": "hanhltm13"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "2",
+                "Room": "213",
+                "Lecturer": "hanhltm13"
+            }
+        ],
+        "CourseCode": "SCM201"
+    },
+    "1986": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "2",
+                "Room": "214",
+                "Lecturer": ""
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "3",
+                "Room": "214",
+                "Lecturer": ""
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "1",
+                "Room": "214",
+                "Lecturer": ""
+            }
+        ],
+        "CourseCode": "CHN132"
+    },
+    "1987": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "1",
+                "Room": "214",
+                "Lecturer": "CricynthiaDB"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "1",
+                "Room": "214",
+                "Lecturer": "CricynthiaDB"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "2",
+                "Room": "214",
+                "Lecturer": "CricynthiaDB"
+            }
+        ],
+        "CourseCode": "ENM401"
+    },
+    "1988": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "2",
+                "Room": "214",
+                "Lecturer": "hanhltm13"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "3",
+                "Room": "214",
+                "Lecturer": "hanhltm13"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "3",
+                "Room": "214",
+                "Lecturer": "hanhltm13"
+            }
+        ],
+        "CourseCode": "IEI301"
+    },
+    "1989": {
+        "Schedule": [
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "3",
+                "Room": "214",
+                "Lecturer": "trangntd11"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "2",
+                "Room": "214",
+                "Lecturer": "trangntd11"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "3",
+                "Room": "214",
+                "Lecturer": "trangntd11"
+            }
+        ],
+        "CourseCode": "MKT204"
+    },
+    "1990": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "1",
+                "Room": "214",
+                "Lecturer": "tranghna"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "1",
+                "Room": "214",
+                "Lecturer": "tranghna"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "2",
+                "Room": "214",
+                "Lecturer": "tranghna"
+            }
+        ],
+        "CourseCode": "SSC101"
+    },
+    "1991": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "2",
+                "Room": "213",
+                "Lecturer": "trangnh34"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "3",
+                "Room": "213",
+                "Lecturer": "trangnh34"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "1",
+                "Room": "213",
+                "Lecturer": "trangnh34"
+            }
+        ],
+        "CourseCode": "ACC101"
+    },
+    "1993": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "2",
+                "Room": "215",
+                "Lecturer": "hanhltm13"
+            }
+        ],
+        "CourseCode": "HRM201c"
+    },
+    "1994": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "3",
+                "Room": "215",
+                "Lecturer": "tungtm"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "1",
+                "Room": "215",
+                "Lecturer": "tungtm"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "2",
+                "Room": "215",
+                "Lecturer": "tungtm"
+            }
+        ],
+        "CourseCode": "MKT201"
+    },
+    "1995": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "1",
+                "Room": "215",
+                "Lecturer": "tungtm"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "2",
+                "Room": "215",
+                "Lecturer": "tungtm"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "1",
+                "Room": "215",
+                "Lecturer": "tungtm"
+            }
+        ],
+        "CourseCode": "MKT304"
+    },
+    "1997": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "1",
+                "Room": "218",
+                "Lecturer": ""
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "1",
+                "Room": "218",
+                "Lecturer": ""
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "2",
+                "Room": "218",
+                "Lecturer": ""
+            }
+        ],
+        "CourseCode": "ECO201"
+    },
+    "1998": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "1",
+                "Room": "218",
+                "Lecturer": "haiva2"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "3",
+                "Room": "218",
+                "Lecturer": "haiva2"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "3",
+                "Room": "218",
+                "Lecturer": "haiva2"
+            }
+        ],
+        "CourseCode": "FIN202"
+    },
+    "1999": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "2",
+                "Room": "218",
+                "Lecturer": "hanhltm13"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "3",
+                "Room": "218",
+                "Lecturer": "hanhltm13"
+            }
+        ],
+        "CourseCode": "HRM201c"
+    },
+    "2001": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "2",
+                "Room": "218",
+                "Lecturer": ""
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "3",
+                "Room": "218",
+                "Lecturer": ""
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "3",
+                "Room": "218",
+                "Lecturer": ""
+            }
+        ],
+        "CourseCode": "IBI101"
+    },
+    "2004": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "2",
+                "Room": "216",
+                "Lecturer": "DungLTP9"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "1",
+                "Room": "216",
+                "Lecturer": "DungLTP9"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "2",
+                "Room": "216",
+                "Lecturer": "DungLTP9"
+            }
+        ],
+        "CourseCode": "ACC101"
+    },
+    "2006": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "3",
+                "Room": "216",
+                "Lecturer": "trangnh34"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "1",
+                "Room": "216",
+                "Lecturer": "trangnh34"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "2",
+                "Room": "216",
+                "Lecturer": "trangnh34"
+            }
+        ],
+        "CourseCode": "ECO121"
+    },
+    "2008": {
+        "Schedule": [
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "3",
+                "Room": "216",
+                "Lecturer": "hanhltm13"
+            }
+        ],
+        "CourseCode": "OBE102c"
+    },
+    "2009": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "1",
+                "Room": "216",
+                "Lecturer": "longt3"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "2",
+                "Room": "216",
+                "Lecturer": "longt3"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "1",
+                "Room": "216",
+                "Lecturer": "longt3"
+            }
+        ],
+        "CourseCode": "SSG103"
+    },
+    "2011": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "2",
+                "Room": "217",
+                "Lecturer": "DungLTP9"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "2",
+                "Room": "217",
+                "Lecturer": "DungLTP9"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "1",
+                "Room": "217",
+                "Lecturer": "DungLTP9"
+            }
+        ],
+        "CourseCode": "ACC101"
+    },
+    "2012": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "3",
+                "Room": "217",
+                "Lecturer": "trangnh34"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "2",
+                "Room": "217",
+                "Lecturer": "trangnh34"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "3",
+                "Room": "217",
+                "Lecturer": "trangnh34"
+            }
+        ],
+        "CourseCode": "ECO121"
+    },
+    "2014": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "1",
+                "Room": "217",
+                "Lecturer": "hanhltm13"
+            }
+        ],
+        "CourseCode": "OBE102c"
+    },
+    "2015": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "3",
+                "Room": "217",
+                "Lecturer": "longt3"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "2",
+                "Room": "217",
+                "Lecturer": "longt3"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "3",
+                "Room": "217",
+                "Lecturer": "longt3"
+            }
+        ],
+        "CourseCode": "SSG103"
+    },
+    "2016": {
+        "Schedule": [
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "1",
+                "Room": "203",
+                "Lecturer": "LanDH4"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "2",
+                "Room": "203",
+                "Lecturer": "LanDH4"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "3",
+                "Room": "203",
+                "Lecturer": "LanDH4"
+            }
+        ],
+        "CourseCode": "SSG103"
+    },
+    "2018": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "1",
+                "Room": "219",
+                "Lecturer": "langntm"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "2",
+                "Room": "219",
+                "Lecturer": "langntm"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "3",
+                "Room": "219",
+                "Lecturer": "langntm"
+            }
+        ],
+        "CourseCode": "HCM201"
+    },
+    "2019": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "1",
+                "Room": "219",
+                "Lecturer": ""
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "2",
+                "Room": "219",
+                "Lecturer": ""
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "1",
+                "Room": "219",
+                "Lecturer": ""
+            }
+        ],
+        "CourseCode": "MKT301"
+    },
+    "2021": {
+        "Schedule": [
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "3",
+                "Room": "219",
+                "Lecturer": "langntm"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "2",
+                "Room": "219",
+                "Lecturer": "langntm"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "3",
+                "Room": "219",
+                "Lecturer": "langntm"
+            }
+        ],
+        "CourseCode": "VNR201"
+    },
+    "2022": {
+        "Schedule": [],
+        "CourseCode": "SSL101c"
+    },
+    "2023": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "1",
+                "Room": "220",
+                "Lecturer": ""
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "2",
+                "Room": "220",
+                "Lecturer": ""
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "3",
+                "Room": "220",
+                "Lecturer": ""
+            }
+        ],
+        "CourseCode": "ETR401"
+    },
+    "2024": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "1",
+                "Room": "220",
+                "Lecturer": "TanTL2"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "2",
+                "Room": "220",
+                "Lecturer": "TanTL2"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "1",
+                "Room": "220",
+                "Lecturer": "TanTL2"
+            }
+        ],
+        "CourseCode": "IBS301m"
+    },
+    "2025": {
+        "Schedule": [
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "2",
+                "Room": "220",
+                "Lecturer": "thutt25"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "2",
+                "Room": "220",
+                "Lecturer": "thutt25"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "3",
+                "Room": "220",
+                "Lecturer": "thutt25"
+            }
+        ],
+        "CourseCode": "RMB301"
+    },
+    "2026": {
+        "Schedule": [
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "1",
+                "Room": "308",
+                "Lecturer": "quannq6"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "2",
+                "Room": "308",
+                "Lecturer": "quannq6"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "1",
+                "Room": "308",
+                "Lecturer": "quannq6"
+            }
+        ],
+        "CourseCode": "ECO111"
+    },
+    "2029": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "1",
+                "Room": "308",
+                "Lecturer": "trangntk13"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "2",
+                "Room": "308",
+                "Lecturer": "trangntk13"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "3",
+                "Room": "308",
+                "Lecturer": "trangntk13"
+            }
+        ],
+        "CourseCode": "MGT103"
+    },
+    "2030": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "3",
+                "Room": "308",
+                "Lecturer": "longt3"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "2",
+                "Room": "308",
+                "Lecturer": "longt3"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "3",
+                "Room": "308",
+                "Lecturer": "longt3"
+            }
+        ],
+        "CourseCode": "MKT101"
+    },
+    "2031": {
+        "Schedule": [],
+        "CourseCode": "SSL101c"
+    },
+    "2032": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "2",
+                "Room": "307",
+                "Lecturer": "thanhnt190"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "3",
+                "Room": "307",
+                "Lecturer": "thanhnt190"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "3",
+                "Room": "307",
+                "Lecturer": "thanhnt190"
+            }
+        ],
+        "CourseCode": "CHN111"
+    },
+    "2033": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "1",
+                "Room": "307",
+                "Lecturer": "trangnh34"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "2",
+                "Room": "307",
+                "Lecturer": "trangnh34"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "1",
+                "Room": "307",
+                "Lecturer": "trangnh34"
+            }
+        ],
+        "CourseCode": "ECO102"
+    },
+    "2036": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "1",
+                "Room": "307",
+                "Lecturer": "thaitv"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "2",
+                "Room": "307",
+                "Lecturer": "thaitv"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "3",
+                "Room": "307",
+                "Lecturer": "thaitv"
+            }
+        ],
+        "CourseCode": "MLN101"
+    },
+    "2037": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "1",
+                "Room": "209",
+                "Lecturer": "PalomaresNL"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "3(_ChangeDate_ChangeRoom_ChangeSlot)",
+                "Room": "314",
+                "Lecturer": "PalomaresNL"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "3",
+                "Room": "209",
+                "Lecturer": "PalomaresNL"
+            }
+        ],
+        "CourseCode": "ENM401"
+    },
+    "2039": {
+        "Schedule": [
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "5",
+                "Room": "216",
+                "Lecturer": "quannq6"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "5",
+                "Room": "216",
+                "Lecturer": "quannq6"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "6",
+                "Room": "216",
+                "Lecturer": "quannq6"
+            }
+        ],
+        "CourseCode": "ECO111"
+    },
+    "2041": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "4",
+                "Room": "216",
+                "Lecturer": "trangntd11"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "5",
+                "Room": "216",
+                "Lecturer": "trangntd11"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "4",
+                "Room": "216",
+                "Lecturer": "trangntd11"
+            }
+        ],
+        "CourseCode": "MGT103"
+    },
+    "2042": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "4",
+                "Room": "216",
+                "Lecturer": "tranghna"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "5",
+                "Room": "216",
+                "Lecturer": "tranghna"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "4",
+                "Room": "216",
+                "Lecturer": "tranghna"
+            }
+        ],
+        "CourseCode": "MKT101"
+    },
+    "2043": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "4",
+                "Room": "216",
+                "Lecturer": "trangntd11"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "5",
+                "Room": "216",
+                "Lecturer": "trangntd11"
+            }
+        ],
+        "CourseCode": "SSL101c"
+    },
+    "2045": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "4",
+                "Room": "218",
+                "Lecturer": "quynhtn11"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "5",
+                "Room": "218",
+                "Lecturer": "quynhtn11"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "6",
+                "Room": "218",
+                "Lecturer": "quynhtn11"
+            }
+        ],
+        "CourseCode": "ECO121"
+    },
+    "2049": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "6",
+                "Room": "218",
+                "Lecturer": "hanhltm13"
+            }
+        ],
+        "CourseCode": "OBE102c"
+    },
+    "2051": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "4",
+                "Room": "218",
+                "Lecturer": "trangnh34"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "5",
+                "Room": "218",
+                "Lecturer": "trangnh34"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "6",
+                "Room": "218",
+                "Lecturer": "trangnh34"
+            }
+        ],
+        "CourseCode": "ACC101"
+    },
+    "2052": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "4",
+                "Room": "217",
+                "Lecturer": "DungLTP9"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "4",
+                "Room": "217",
+                "Lecturer": "DungLTP9"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "5",
+                "Room": "217",
+                "Lecturer": "DungLTP9"
+            }
+        ],
+        "CourseCode": "ACC101"
+    },
+    "2053": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "6",
+                "Room": "217",
+                "Lecturer": "trangnh34"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "4",
+                "Room": "217",
+                "Lecturer": "trangnh34"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "5",
+                "Room": "217",
+                "Lecturer": "trangnh34"
+            }
+        ],
+        "CourseCode": "ECO121"
+    },
+    "2055": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "4",
+                "Room": "217",
+                "Lecturer": "hanhltm13"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "5",
+                "Room": "217",
+                "Lecturer": "hanhltm13"
+            }
+        ],
+        "CourseCode": "OBE102c"
+    },
+    "2056": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "5",
+                "Room": "217",
+                "Lecturer": "longt3"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "6",
+                "Room": "217",
+                "Lecturer": "longt3"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "6",
+                "Room": "217",
+                "Lecturer": "longt3"
+            }
+        ],
+        "CourseCode": "SSG103"
+    },
+    "2060": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "2",
+                "Room": "309",
+                "Lecturer": ""
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "3",
+                "Room": "309",
+                "Lecturer": ""
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "3",
+                "Room": "309",
+                "Lecturer": ""
+            }
+        ],
+        "CourseCode": "HMO102"
+    },
+    "2062": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "1",
+                "Room": "309",
+                "Lecturer": ""
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "1",
+                "Room": "309",
+                "Lecturer": ""
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "2",
+                "Room": "309",
+                "Lecturer": ""
+            }
+        ],
+        "CourseCode": "HOM202"
+    },
+    "2065": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "4",
+                "Room": "219",
+                "Lecturer": "TrangPTH27"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "4",
+                "Room": "219",
+                "Lecturer": "TrangPTH27"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "5",
+                "Room": "219",
+                "Lecturer": "TrangPTH27"
+            }
+        ],
+        "CourseCode": "MKT202"
+    },
+    "2066": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "4",
+                "Room": "219",
+                "Lecturer": "tungtm"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "4",
+                "Room": "219",
+                "Lecturer": "tungtm"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "5",
+                "Room": "219",
+                "Lecturer": "tungtm"
+            }
+        ],
+        "CourseCode": "MKT308"
+    },
+    "2067": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "5",
+                "Room": "219",
+                "Lecturer": "taimx"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "6",
+                "Room": "219",
+                "Lecturer": "taimx"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "6",
+                "Room": "219",
+                "Lecturer": "taimx"
+            }
+        ],
+        "CourseCode": "SSC101"
+    },
+    "2068": {
+        "Schedule": [
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "4(_ChangeDate_ChangeSlot)",
+                "Room": "220",
+                "Lecturer": ""
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "5(_ChangeDate)",
+                "Room": "220",
+                "Lecturer": ""
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "6",
+                "Room": "220",
+                "Lecturer": ""
+            }
+        ],
+        "CourseCode": "CHN132"
+    },
+    "2069": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "5",
+                "Room": "220",
+                "Lecturer": "JabellanaMEP"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "6",
+                "Room": "220",
+                "Lecturer": "JabellanaMEP"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "6",
+                "Room": "220",
+                "Lecturer": "JabellanaMEP"
+            }
+        ],
+        "CourseCode": "ENM401"
+    },
+    "2070": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "5",
+                "Room": "220",
+                "Lecturer": "hanhltm13"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "6",
+                "Room": "220",
+                "Lecturer": "hanhltm13"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "4",
+                "Room": "220",
+                "Lecturer": "hanhltm13"
+            }
+        ],
+        "CourseCode": "IEI301"
+    },
+    "2071": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "4",
+                "Room": "220",
+                "Lecturer": "trangntd11"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "5",
+                "Room": "220",
+                "Lecturer": "trangntd11"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "6",
+                "Room": "220",
+                "Lecturer": "trangntd11"
+            }
+        ],
+        "CourseCode": "MKT204"
+    },
+    "2072": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "4",
+                "Room": "220",
+                "Lecturer": "taimx"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "4",
+                "Room": "220",
+                "Lecturer": "taimx"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "5",
+                "Room": "220",
+                "Lecturer": "taimx"
+            }
+        ],
+        "CourseCode": "SSC101"
+    },
+    "2074": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "4",
+                "Room": "206",
+                "Lecturer": "teacher1"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "5",
+                "Room": "206",
+                "Lecturer": "teacher1"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "4",
+                "Room": "206",
+                "Lecturer": "teacher1"
+            }
+        ],
+        "CourseCode": "IBC201"
+    },
+    "2075": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "5",
+                "Room": "303",
+                "Lecturer": ""
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "5",
+                "Room": "303",
+                "Lecturer": ""
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "6",
+                "Room": "303",
+                "Lecturer": ""
+            }
+        ],
+        "CourseCode": "IBI101"
+    },
+    "2076": {
+        "Schedule": [
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "6",
+                "Room": "206",
+                "Lecturer": "hanhltm13"
+            }
+        ],
+        "CourseCode": "HRM201c"
+    },
+    "2077": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "4",
+                "Room": "206",
+                "Lecturer": "trangnh34"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "5",
+                "Room": "206",
+                "Lecturer": "trangnh34"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "6",
+                "Room": "206",
+                "Lecturer": "trangnh34"
+            }
+        ],
+        "CourseCode": "ECO201"
+    },
+    "2078": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "4",
+                "Room": "206",
+                "Lecturer": "teacher2"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "4",
+                "Room": "206",
+                "Lecturer": "teacher2"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "5",
+                "Room": "206",
+                "Lecturer": "teacher2"
+            }
+        ],
+        "CourseCode": "FIN202"
+    },
+    "2082": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "6",
+                "Room": "216",
+                "Lecturer": "MaryGaleBO"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "6",
+                "Room": "216",
+                "Lecturer": "MaryGaleBO"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "6",
+                "Room": "216",
+                "Lecturer": "MaryGaleBO"
+            }
+        ],
+        "CourseCode": "ENM301"
+    },
+    "2083": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "5",
+                "Room": "219",
+                "Lecturer": "thanhnt190"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "6",
+                "Room": "219",
+                "Lecturer": "thanhnt190"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "6",
+                "Room": "219",
+                "Lecturer": "thanhnt190"
+            }
+        ],
+        "CourseCode": "CHN132"
+    },
+    "2086": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "1",
+                "Room": "315",
+                "Lecturer": "Lilibeth"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "2",
+                "Room": "315",
+                "Lecturer": "Lilibeth"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "2",
+                "Room": "315",
+                "Lecturer": "Lilibeth"
+            }
+        ],
+        "CourseCode": "ENL112"
+    },
+    "2087": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "4",
+                "Room": "218",
+                "Lecturer": "tungtm"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "5",
+                "Room": "218",
+                "Lecturer": "tungtm"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "6",
+                "Room": "218",
+                "Lecturer": "tungtm"
+            }
+        ],
+        "CourseCode": "SSG103"
+    },
+    "2089": {
+        "Schedule": [
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "4",
+                "Room": "218",
+                "Lecturer": "MaryAnnDRM"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "5",
+                "Room": "218",
+                "Lecturer": "MaryAnnDRM"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "6",
+                "Room": "218",
+                "Lecturer": "MaryAnnDRM"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "5",
+                "Room": "218",
+                "Lecturer": "MaryAnnDRM"
+            }
+        ],
+        "CourseCode": "ENM401"
+    },
+    "2097": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "1",
+                "Room": "212",
+                "Lecturer": "CricynthiaDB"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "2",
+                "Room": "212",
+                "Lecturer": "CricynthiaDB"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "1",
+                "Room": "212",
+                "Lecturer": "CricynthiaDB"
+            }
+        ],
+        "CourseCode": "ENM401"
+    },
+    "2101": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "3",
+                "Room": "216",
+                "Lecturer": "PalomaresNL"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "1",
+                "Room": "216",
+                "Lecturer": "PalomaresNL"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "2",
+                "Room": "216",
+                "Lecturer": "PalomaresNL"
+            }
+        ],
+        "CourseCode": "ENM401"
+    },
+    "2102": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "1",
+                "Room": "217",
+                "Lecturer": "Jireh"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "1",
+                "Room": "217",
+                "Lecturer": "Jireh"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "2",
+                "Room": "217",
+                "Lecturer": "Jireh"
+            }
+        ],
+        "CourseCode": "ENH401"
+    },
+    "2103": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "1",
+                "Room": "308",
+                "Lecturer": "GabeMGM"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "2",
+                "Room": "308",
+                "Lecturer": "GabeMGM"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "1",
+                "Room": "308",
+                "Lecturer": "GabeMGM"
+            }
+        ],
+        "CourseCode": "ENH301"
+    },
+    "2104": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "1",
+                "Room": "316",
+                "Lecturer": "Karla"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "2",
+                "Room": "316",
+                "Lecturer": "Karla"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "1",
+                "Room": "316",
+                "Lecturer": "Karla"
+            }
+        ],
+        "CourseCode": "ENM301"
+    },
+    "2105": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "4",
+                "Room": "217",
+                "Lecturer": "MaryAnnDRM"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "5",
+                "Room": "217",
+                "Lecturer": "MaryAnnDRM"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "6",
+                "Room": "217",
+                "Lecturer": "MaryAnnDRM"
+            }
+        ],
+        "CourseCode": "ENM401"
+    },
+    "2106": {
+        "Schedule": [
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "1",
+                "Room": "314",
+                "Lecturer": ""
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "2",
+                "Room": "314",
+                "Lecturer": ""
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "1",
+                "Room": "314",
+                "Lecturer": ""
+            }
+        ],
+        "CourseCode": "HMO102"
+    },
+    "2107": {
+        "Schedule": [
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "1",
+                "Room": "219",
+                "Lecturer": "vanltt10"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "2",
+                "Room": "219",
+                "Lecturer": "vanltt10"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "3",
+                "Room": "219",
+                "Lecturer": "vanltt10"
+            }
+        ],
+        "CourseCode": "GDP101"
+    },
+    "2108": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "1",
+                "Room": "219",
+                "Lecturer": ""
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "2",
+                "Room": "219",
+                "Lecturer": ""
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "3",
+                "Room": "219",
+                "Lecturer": ""
+            }
+        ],
+        "CourseCode": "SSN301"
+    },
+    "2109": {
+        "Schedule": [
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "1(_ChangeDate_ChangeSlot)",
+                "Room": "219",
+                "Lecturer": "trapt4"
+            }
+        ],
+        "CourseCode": "ITA203c"
+    },
+    "2112": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "3",
+                "Room": "212",
+                "Lecturer": "longlpc"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "1",
+                "Room": "212",
+                "Lecturer": "longlpc"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "2",
+                "Room": "212",
+                "Lecturer": "longlpc"
+            }
+        ],
+        "CourseCode": "MKT202"
+    },
+    "2113": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "4",
+                "Room": "201",
+                "Lecturer": "longnq9"
+            }
+        ],
+        "CourseCode": "ITE302b"
+    },
+    "2114": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "2",
+                "Room": "215",
+                "Lecturer": "haiva2"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "1",
+                "Room": "215",
+                "Lecturer": "haiva2"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "2",
+                "Room": "215",
+                "Lecturer": "haiva2"
+            }
+        ],
+        "CourseCode": "FIN202"
+    },
+    "2115": {
+        "Schedule": [
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "1",
+                "Room": "215",
+                "Lecturer": "longlpc"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "2",
+                "Room": "215",
+                "Lecturer": "longlpc"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "3",
+                "Room": "215",
+                "Lecturer": "longlpc"
+            }
+        ],
+        "CourseCode": "MKT318"
+    },
+    "2116": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "2",
+                "Room": "218",
+                "Lecturer": "LongTD17"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "1",
+                "Room": "218",
+                "Lecturer": "LongTD17"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "2",
+                "Room": "218",
+                "Lecturer": "LongTD17"
+            }
+        ],
+        "CourseCode": "IBC201"
+    },
+    "2117": {
+        "Schedule": [
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "1",
+                "Room": "206",
+                "Lecturer": "DungLTP9"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "2",
+                "Room": "206",
+                "Lecturer": "DungLTP9"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "3",
+                "Room": "206",
+                "Lecturer": "DungLTP9"
+            }
+        ],
+        "CourseCode": "SSG103"
+    },
+    "2120": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "3",
+                "Room": "303",
+                "Lecturer": "thanhnt196"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "2",
+                "Room": "303",
+                "Lecturer": "thanhnt196"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "3",
+                "Room": "303",
+                "Lecturer": "thanhnt196"
+            }
+        ],
+        "CourseCode": "ECO101"
+    },
+    "2121": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "2",
+                "Room": "303",
+                "Lecturer": "thanhnt196"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "2",
+                "Room": "303",
+                "Lecturer": "thanhnt196"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "3",
+                "Room": "303",
+                "Lecturer": "thanhnt196"
+            }
+        ],
+        "CourseCode": "JIT491"
+    },
+    "2122": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "1",
+                "Room": "303",
+                "Lecturer": "thuydt63"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "2",
+                "Room": "303",
+                "Lecturer": "thuydt63"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "3",
+                "Room": "303",
+                "Lecturer": "KazuneN"
+            }
+        ],
+        "CourseCode": "JPC301"
+    },
+    "2123": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "3",
+                "Room": "303",
+                "Lecturer": ""
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "2",
+                "Room": "303",
+                "Lecturer": ""
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "3",
+                "Room": "303",
+                "Lecturer": ""
+            }
+        ],
+        "CourseCode": "JPG301"
+    },
+    "2124": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "1",
+                "Room": "303",
+                "Lecturer": "thuydt63"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "1",
+                "Room": "303",
+                "Lecturer": "KazuneN"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "2",
+                "Room": "303",
+                "Lecturer": "KazuneN"
+            }
+        ],
+        "CourseCode": "LTG201"
+    },
+    "2125": {
+        "Schedule": [
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "4",
+                "Room": "308",
+                "Lecturer": "haontd"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "5",
+                "Room": "308",
+                "Lecturer": "haontd"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "6",
+                "Room": "308",
+                "Lecturer": "haontd"
+            }
+        ],
+        "CourseCode": "ELI401"
+    },
+    "2126": {
+        "Schedule": [
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "1",
+                "Room": "307",
+                "Lecturer": "haontd"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "2",
+                "Room": "307",
+                "Lecturer": "haontd"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "3",
+                "Room": "307",
+                "Lecturer": "haontd"
+            }
+        ],
+        "CourseCode": "ELT401"
+    },
+    "2128": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "1",
+                "Room": "203",
+                "Lecturer": "hoanggm"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "2",
+                "Room": "203",
+                "Lecturer": "hoanggm"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "3",
+                "Room": "203",
+                "Lecturer": "hoanggm"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "1",
+                "Room": "203",
+                "Lecturer": "hoanggm"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "2",
+                "Room": "203",
+                "Lecturer": "hoanggm"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "3",
+                "Room": "203",
+                "Lecturer": "hoanggm"
+            }
+        ],
+        "CourseCode": "AFA201"
+    },
+    "2129": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "1",
+                "Room": "203",
+                "Lecturer": "thienvt3"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "2",
+                "Room": "203",
+                "Lecturer": "thienvt3"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "3",
+                "Room": "203",
+                "Lecturer": "thienvt3"
+            }
+        ],
+        "CourseCode": "DRD201"
+    },
+    "2130": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "1",
+                "Room": "203",
+                "Lecturer": "vanltt10"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "2",
+                "Room": "203",
+                "Lecturer": "vanltt10"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "3",
+                "Room": "203",
+                "Lecturer": "vanltt10"
+            }
+        ],
+        "CourseCode": "GDF101"
+    },
+    "2131": {
+        "Schedule": [
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "4",
+                "Room": "203",
+                "Lecturer": "hoanggm"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "5",
+                "Room": "203",
+                "Lecturer": "hoanggm"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "6",
+                "Room": "203",
+                "Lecturer": "hoanggm"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "4",
+                "Room": "203",
+                "Lecturer": "hoanggm"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "5",
+                "Room": "203",
+                "Lecturer": "hoanggm"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "6",
+                "Room": "203",
+                "Lecturer": "hoanggm"
+            }
+        ],
+        "CourseCode": "AFA201"
+    },
+    "2132": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "4",
+                "Room": "203",
+                "Lecturer": "thanhntc"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "5",
+                "Room": "203",
+                "Lecturer": "thanhntc"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "6",
+                "Room": "203",
+                "Lecturer": "thanhntc"
+            }
+        ],
+        "CourseCode": "DRD201"
+    },
+    "2134": {
+        "Schedule": [
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "1",
+                "Room": "203",
+                "Lecturer": "hait2"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "2",
+                "Room": "203",
+                "Lecturer": "hait2"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "3",
+                "Room": "203",
+                "Lecturer": "hait2"
+            }
+        ],
+        "CourseCode": "PST202"
+    },
+    "2135": {
+        "Schedule": [
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "4",
+                "Room": "203",
+                "Lecturer": "ducnt63"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "5",
+                "Room": "203",
+                "Lecturer": "ducnt63"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "6",
+                "Room": "203",
+                "Lecturer": "ducnt63"
+            }
+        ],
+        "CourseCode": "GDF101"
+    },
+    "2136": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "4",
+                "Room": "203",
+                "Lecturer": "hait2"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "5",
+                "Room": "203",
+                "Lecturer": "hait2"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "6",
+                "Room": "203",
+                "Lecturer": "hait2"
+            }
+        ],
+        "CourseCode": "PST202"
+    },
+    "2137": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "1",
+                "Room": "302",
+                "Lecturer": "quyendc"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "2",
+                "Room": "302",
+                "Lecturer": "quyendc"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "3",
+                "Room": "302",
+                "Lecturer": "quyendc"
+            }
+        ],
+        "CourseCode": "DTG102"
+    },
+    "2138": {
+        "Schedule": [
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "1",
+                "Room": "302",
+                "Lecturer": "vanltt10"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "2",
+                "Room": "302",
+                "Lecturer": "vanltt10"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "3",
+                "Room": "302",
+                "Lecturer": "vanltt10"
+            }
+        ],
+        "CourseCode": "VCM201"
+    },
+    "2142": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "4",
+                "Room": "307",
+                "Lecturer": "trungtc3"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "5",
+                "Room": "307",
+                "Lecturer": "trungtc3"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "6",
+                "Room": "307",
+                "Lecturer": "trungtc3"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "4",
+                "Room": "307",
+                "Lecturer": "trungtc3"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "5",
+                "Room": "307",
+                "Lecturer": "trungtc3"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "6",
+                "Room": "307",
+                "Lecturer": "trungtc3"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "4",
+                "Room": "307",
+                "Lecturer": "trungtc3"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "5",
+                "Room": "307",
+                "Lecturer": "trungtc3"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "6",
+                "Room": "307",
+                "Lecturer": "trungtc3"
+            }
+        ],
+        "CourseCode": "ANM301"
+    },
+    "2143": {
+        "Schedule": [
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "4",
+                "Room": "307",
+                "Lecturer": "ducnt63"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "5",
+                "Room": "307",
+                "Lecturer": "ducnt63"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "6",
+                "Room": "307",
+                "Lecturer": "ducnt63"
+            }
+        ],
+        "CourseCode": "CAA201"
+    },
+    "2144": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "4",
+                "Room": "307",
+                "Lecturer": "quyendc"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "5",
+                "Room": "307",
+                "Lecturer": "quyendc"
+            },
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "6",
+                "Room": "307",
+                "Lecturer": "quyendc"
+            }
+        ],
+        "CourseCode": "WDU201"
+    },
+    "2145": {
+        "Schedule": [],
+        "CourseCode": "ANA401"
+    },
+    "2146": {
+        "Schedule": [],
+        "CourseCode": "ANR401"
+    },
+    "2147": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "2",
+                "Room": "207",
+                "Lecturer": "KazuneN"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "1",
+                "Room": "207",
+                "Lecturer": "thuydt63"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "2",
+                "Room": "207",
+                "Lecturer": "thuydt63"
+            }
+        ],
+        "CourseCode": "JPD113"
+    },
+    "2148": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "3",
+                "Room": "208",
+                "Lecturer": "thuydt63"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "1",
+                "Room": "208",
+                "Lecturer": "KazuneN"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "2",
+                "Room": "208",
+                "Lecturer": "KazuneN"
+            }
+        ],
+        "CourseCode": "JPD113"
+    },
+    "2151": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "2",
+                "Room": "309",
+                "Lecturer": "LinhTNM"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "2",
+                "Room": "201",
+                "Lecturer": "LinhTNM"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "3",
+                "Room": "201",
+                "Lecturer": "LinhTNM"
+            }
+        ],
+        "CourseCode": "JIT301"
+    },
+    "2152": {
+        "Schedule": [
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "4",
+                "Room": "219",
+                "Lecturer": "JabellanaMEP"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "5",
+                "Room": "219",
+                "Lecturer": "JabellanaMEP"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "6",
+                "Room": "219",
+                "Lecturer": "JabellanaMEP"
+            }
+        ],
+        "CourseCode": "ENM401"
+    },
+    "2153": {
+        "Schedule": [
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "4",
+                "Room": "205",
+                "Lecturer": "chucnv3"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "5",
+                "Room": "205",
+                "Lecturer": "chucnv3"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "6",
+                "Room": "205",
+                "Lecturer": "chucnv3"
+            }
+        ],
+        "CourseCode": "DBW301"
+    },
+    "2154": {
+        "Schedule": [],
+        "CourseCode": "DRP101"
+    },
+    "2155": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "1",
+                "Room": "302",
+                "Lecturer": "thanhntc"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "2",
+                "Room": "302",
+                "Lecturer": "thanhntc"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "3",
+                "Room": "302",
+                "Lecturer": "thanhntc"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "1",
+                "Room": "302",
+                "Lecturer": "thanhntc"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "2",
+                "Room": "302",
+                "Lecturer": "thanhntc"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "3",
+                "Room": "302",
+                "Lecturer": "thanhntc"
+            }
+        ],
+        "CourseCode": "DRS101"
+    },
+    "2156": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "1",
+                "Room": "202",
+                "Lecturer": "KazuneN"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "2",
+                "Room": "202",
+                "Lecturer": "KazuneN"
+            },
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "3",
+                "Room": "202",
+                "Lecturer": "KazuneN"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "3",
+                "Room": "202",
+                "Lecturer": "KazuneN"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "2",
+                "Room": "202",
+                "Lecturer": "KazuneN"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "3",
+                "Room": "202",
+                "Lecturer": "KazuneN"
+            }
+        ],
+        "CourseCode": "JPD226"
+    },
+    "2161": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "2",
+                "Room": "305",
+                "Lecturer": "TinhTC4"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "2",
+                "Room": "305",
+                "Lecturer": "TinhTC4"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "2",
+                "Room": "305",
+                "Lecturer": "TinhTC4"
+            }
+        ],
+        "CourseCode": "ÐNG102"
+    },
+    "2162": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "3",
+                "Room": "305",
+                "Lecturer": "TinhTC4"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "3",
+                "Room": "305",
+                "Lecturer": "TinhTC4"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "3",
+                "Room": "305",
+                "Lecturer": "TinhTC4"
+            }
+        ],
+        "CourseCode": "ÐNG102"
+    },
+    "2163": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "5",
+                "Room": "305",
+                "Lecturer": "TinhTC4"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "5",
+                "Room": "305",
+                "Lecturer": "TinhTC4"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "5",
+                "Room": "305",
+                "Lecturer": "TinhTC4"
+            }
+        ],
+        "CourseCode": "ÐNG102"
+    },
+    "2164": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "6",
+                "Room": "305",
+                "Lecturer": "TinhTC4"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "6",
+                "Room": "305",
+                "Lecturer": "TinhTC4"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "6",
+                "Room": "305",
+                "Lecturer": "TinhTC4"
+            }
+        ],
+        "CourseCode": "ÐNG102"
+    },
+    "2165": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "1",
+                "Room": "306",
+                "Lecturer": "TanTN13"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "1",
+                "Room": "306",
+                "Lecturer": "TanTN13"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "1",
+                "Room": "306",
+                "Lecturer": "TanTN13"
+            }
+        ],
+        "CourseCode": "ÐSA102"
+    },
+    "2166": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "3",
+                "Room": "306",
+                "Lecturer": "TanTN13"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "3",
+                "Room": "306",
+                "Lecturer": "TanTN13"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "3",
+                "Room": "306",
+                "Lecturer": "TanTN13"
+            }
+        ],
+        "CourseCode": "ÐSA102"
+    },
+    "2167": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "4",
+                "Room": "306",
+                "Lecturer": "TanTN13"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "4",
+                "Room": "306",
+                "Lecturer": "TanTN13"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "4",
+                "Room": "306",
+                "Lecturer": "TanTN13"
+            }
+        ],
+        "CourseCode": "ÐSA102"
+    },
+    "2168": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "5",
+                "Room": "306",
+                "Lecturer": "TanTN13"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "5",
+                "Room": "306",
+                "Lecturer": "TanTN13"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "5",
+                "Room": "306",
+                "Lecturer": "TanTN13"
+            }
+        ],
+        "CourseCode": "ÐSA102"
+    },
+    "2172": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "2",
+                "Room": "306",
+                "Lecturer": "TanTN13"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "2",
+                "Room": "306",
+                "Lecturer": "TanTN13"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "2",
+                "Room": "306",
+                "Lecturer": "TanTN13"
+            }
+        ],
+        "CourseCode": "ÐSA102"
+    },
+    "2173": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "3",
+                "Room": "306",
+                "Lecturer": "TanTN13"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "3",
+                "Room": "306",
+                "Lecturer": "TanTN13"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "3",
+                "Room": "306",
+                "Lecturer": "TanTN13"
+            }
+        ],
+        "CourseCode": "ÐSA102"
+    },
+    "2174": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "4",
+                "Room": "306",
+                "Lecturer": "TanTN13"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "4",
+                "Room": "306",
+                "Lecturer": "TanTN13"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "4",
+                "Room": "306",
+                "Lecturer": "TanTN13"
+            }
+        ],
+        "CourseCode": "ÐSA102"
+    },
+    "2175": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "5",
+                "Room": "306",
+                "Lecturer": "TanTN13"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "5",
+                "Room": "306",
+                "Lecturer": "TanTN13"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "5",
+                "Room": "306",
+                "Lecturer": "TanTN13"
+            }
+        ],
+        "CourseCode": "ÐSA102"
+    },
+    "2180": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "1",
+                "Room": "304",
+                "Lecturer": "DungDTT23"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "1",
+                "Room": "304",
+                "Lecturer": "DungDTT23"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "1",
+                "Room": "304",
+                "Lecturer": "DungDTT23"
+            }
+        ],
+        "CourseCode": "ÐTR102"
+    },
+    "2181": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "2",
+                "Room": "304",
+                "Lecturer": "DungDTT23"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "2",
+                "Room": "304",
+                "Lecturer": "DungDTT23"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "2",
+                "Room": "304",
+                "Lecturer": "DungDTT23"
+            }
+        ],
+        "CourseCode": "ÐTR102"
+    },
+    "2182": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "3",
+                "Room": "304",
+                "Lecturer": "DungDTT23"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "3",
+                "Room": "304",
+                "Lecturer": "DungDTT23"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "3",
+                "Room": "304",
+                "Lecturer": "DungDTT23"
+            }
+        ],
+        "CourseCode": "ÐTR102"
+    },
+    "2183": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "4",
+                "Room": "304",
+                "Lecturer": "DungDTT23"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "4",
+                "Room": "304",
+                "Lecturer": "DungDTT23"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "4",
+                "Room": "304",
+                "Lecturer": "DungDTT23"
+            }
+        ],
+        "CourseCode": "ÐTR102"
+    },
+    "2184": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "5",
+                "Room": "304",
+                "Lecturer": "DungDTT23"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "5",
+                "Room": "304",
+                "Lecturer": "DungDTT23"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "5",
+                "Room": "304",
+                "Lecturer": "DungDTT23"
+            }
+        ],
+        "CourseCode": "ÐTR102"
+    },
+    "2185": {
+        "Schedule": [
+            {
+                "Date": "Wednesday 06/01/2021",
+                "Slot": "6",
+                "Room": "304",
+                "Lecturer": "DungDTT23"
+            },
+            {
+                "Date": "Friday 08/01/2021",
+                "Slot": "6",
+                "Room": "304",
+                "Lecturer": "DungDTT23"
+            },
+            {
+                "Date": "Monday 11/01/2021",
+                "Slot": "6",
+                "Room": "304",
+                "Lecturer": "DungDTT23"
+            }
+        ],
+        "CourseCode": "ÐTR102"
+    },
+    "2186": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "1",
+                "Room": "304",
+                "Lecturer": "NgaNTQ7"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "1",
+                "Room": "304",
+                "Lecturer": "NgaNTQ7"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "1",
+                "Room": "304",
+                "Lecturer": "NgaNTQ7"
+            }
+        ],
+        "CourseCode": "ÐTR102"
+    },
+    "2187": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "2",
+                "Room": "304",
+                "Lecturer": "NgaNTQ7"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "2",
+                "Room": "304",
+                "Lecturer": "NgaNTQ7"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "2",
+                "Room": "304",
+                "Lecturer": "NgaNTQ7"
+            }
+        ],
+        "CourseCode": "ÐTR102"
+    },
+    "2188": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "3",
+                "Room": "304",
+                "Lecturer": "NgaNTQ7"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "3",
+                "Room": "304",
+                "Lecturer": "NgaNTQ7"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "3",
+                "Room": "304",
+                "Lecturer": "NgaNTQ7"
+            }
+        ],
+        "CourseCode": "ÐTR102"
+    },
+    "2189": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "4",
+                "Room": "304",
+                "Lecturer": "NgaNTQ7"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "4",
+                "Room": "304",
+                "Lecturer": "NgaNTQ7"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "4",
+                "Room": "304",
+                "Lecturer": "NgaNTQ7"
+            }
+        ],
+        "CourseCode": "ÐTR102"
+    },
+    "2190": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "5",
+                "Room": "304",
+                "Lecturer": "NgaNTQ7"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "5",
+                "Room": "304",
+                "Lecturer": "NgaNTQ7"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "5",
+                "Room": "304",
+                "Lecturer": "NgaNTQ7"
+            }
+        ],
+        "CourseCode": "ÐTR102"
+    },
+    "2191": {
+        "Schedule": [
+            {
+                "Date": "Tuesday 05/01/2021",
+                "Slot": "6",
+                "Room": "304",
+                "Lecturer": "NgaNTQ7"
+            },
+            {
+                "Date": "Thursday 07/01/2021",
+                "Slot": "6",
+                "Room": "304",
+                "Lecturer": "NgaNTQ7"
+            },
+            {
+                "Date": "Saturday 09/01/2021",
+                "Slot": "6",
+                "Room": "304",
+                "Lecturer": "NgaNTQ7"
+            }
+        ],
+        "CourseCode": "ÐTR102"
+    }
+}
