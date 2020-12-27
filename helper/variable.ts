@@ -5,5 +5,5 @@ export const EMAIL = process.env.EMAIL || ''
 export const PASS = process.env.PASS || ''
 export const CAMPUS_CODE = process.env.CAMPUS_CODE || ''
 export const TERM_CODE = process.env.TERM_CODE || ''
-export const PORT = process.env.PORTT || 3000
+export const PORT = process.env.PORT || 3000
 export const VERIFY_TOKEN = process.env.VERIFY_TOKEN || ''
