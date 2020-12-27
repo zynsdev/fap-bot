@@ -2,16 +2,19 @@ import { ISlot } from './fetchData';
 import moment from 'moment'
 import * as storage from './fetchCycle'
 
-export async function getScheduleByDay(studentID: string,
-    day: string | number = moment.now()
+export default async function getScheduleByDay(studentID: string,
+    datestr: string | number = moment.now(), days: number
 ) {
     let res: ISlot[] = [];
-    const date = moment(day).format('dddd DD/MM/YYYY')
+    const date = moment(datestr)
     if (storage.lsStudent1[studentID])
         for (let groupId of storage.lsStudent1[studentID].enrolledGroupID) {
             const subject = storage.lsGroup1[groupId].courseCode
             const lsSlot = storage.lsGroup1[groupId].schedules
-                .filter((el: any) => el.date == date)
+                .filter((el: any) => {
+                    const diffdays = moment(el.date, 'dddd DD/MM/YYYY').diff(date, 'days')
+                    return (diffdays >= 0 && diffdays < days)
+                })
                 .map((el: any) => ({ ...el, subject }))
             res = [...res, ...lsSlot]
         }
@@ -21,7 +24,10 @@ export async function getScheduleByDay(studentID: string,
             for (let groupId of storage.lsStudent1[studentID].enrolledGroupID) {
                 const subject = storage.lsGroup2[groupId].courseCode
                 const lsSlot = storage.lsGroup2[groupId].schedules
-                    .filter((el: any) => el.date == date)
+                    .filter((el: any) => {
+                        const diffdays = moment(el.date, 'dddd DD/MM/YYYY').diff(date, 'days')
+                        return (diffdays >= 0 && diffdays < days)
+                    })
                     .map((el: any) => ({ ...el, subject }))
                 res = [...res, ...lsSlot]
             }
