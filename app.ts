@@ -24,7 +24,9 @@ app.get('/', (req, res) => {
     }
 }) 
 app.post('/', (req, res) => {
-    if (req.body.object === 'page'){
+    console.log(req.body)
+
+    if (req.body.object === 'page' && req.body.entry!==undefined){
         req.body.entry.forEach( (entry:any) => {
             let webhook_event = entry.messaging[0];
             console.log(webhook_event);
