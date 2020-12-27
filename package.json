@@ -7,8 +7,9 @@
     "author": "Zyns Nohara",
     "license": "MIT",
     "scripts": {
-        "start": "tsc && node dist/app.js",
-        "dev": "nodemon app.ts"
+        "build": "tsc",
+        "start": "node dist/app.js",
+        "dev": "tsc && nodemon app.ts"
     },
     "dependencies": {
         "@sendgrid/mail": "^7.4.0",
