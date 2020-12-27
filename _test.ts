@@ -32,5 +32,7 @@ import getSchedule from './helper/getSchedule'
     }
     console.log("Test diff: " + JSON.stringify(diffBetween(c1, c2)))
 
-    //console.log(await getSchedule('DE150302', '2021-01-05', 7))
+    console.time('fetch schedule')
+    console.log(await getSchedule('DE150074', '2021-01-05', 7))
+    console.timeEnd('fetch schedule')
 })();
