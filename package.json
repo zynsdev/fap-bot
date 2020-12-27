@@ -9,7 +9,8 @@
     "scripts": {
         "build": "tsc",
         "start": "node dist/app.js",
-        "dev": "tsc && nodemon app.ts"
+        "dev": "tsc && nodemon app.ts",
+        "test": "tsc && node test.ts"
     },
     "dependencies": {
         "@sendgrid/mail": "^7.4.0",
