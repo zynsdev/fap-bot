@@ -25,11 +25,14 @@ app.get('/', (req, res) => {
 }) 
 
 app.post('/', (req, res) => {
-    console.log(req.body)
+    console.log('Req: ', req.body)
+
+
+    res.sendStatus(200)
 
     if (req.body.object === 'page' && req.body.entry!==undefined){
         req.body.entry.forEach( (entry:any) => {
-            let webhook_event = entry.messaging[0];
+            let webhook_event = entry
             console.log(webhook_event);
             res.status(200).send('EVENT_RECEIVED');
         });
