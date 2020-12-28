@@ -10,7 +10,7 @@ app.use(express.json());
 
 
 // Verify Facebook App
-app.get('/', (req, res) => {
+app.get('/webhook', (req, res) => {
 
     const mode = req.query['hub.mode'];
     const token = req.query['hub.verify_token'];
@@ -24,7 +24,7 @@ app.get('/', (req, res) => {
     }
 }) 
 
-app.post('/', (req, res) => {
+app.post('/webhook', (req, res) => {
     console.log(req.body)
 
     if (req.body.object === 'page' && req.body.entry!==undefined){
