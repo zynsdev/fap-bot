@@ -8,7 +8,7 @@
     "license": "MIT",
     "scripts": {
         "build": "tsc",
-        "start": "node dist/app.js",
+        "start": "tsc && node dist/app.js",
         "dev": "tsc && nodemon app.ts",
         "test": "tsc && node dist/_test.js"
     },
