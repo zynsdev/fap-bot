@@ -1,3 +1,5 @@
+import { SENDGRID_APIKEY, SENDER_EMAIL_ADDR } from './variable';
+
 const sendgrid = require('@sendgrid/mail');
 const randomNumber = require('random-number-csprng');
 
@@ -8,7 +10,7 @@ const tokendict: { [id: string]: CodeRecord } = {}
 
 export function load() {
     sendgrid.setApiKey(
-        process.env.SENDGRID_APIKEY //Email API Key
+        SENDGRID_APIKEY //Email API Key
     );
 }
 
@@ -20,10 +22,10 @@ export async function sendCode(emailaddr: string): Promise<boolean> {
     try {
         const msg = {
             to: emailaddr,
-            from: process.env.SENDER_EMAIL,
-            subject: 'Your verification code is: ' + code,
-            text: code,
-            html: `<strong>${code}</strong>`,
+            from: SENDER_EMAIL_ADDR,
+            subject: 'Your requested validation infomation',
+            text: `Your verification code is: ${code}`,
+            html: `Your verification code is: <strong>${code}</strong>`,
         };
         await sendgrid.send(msg);
     } catch (error) {

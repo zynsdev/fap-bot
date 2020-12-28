@@ -2,8 +2,8 @@ import { ISlot } from './fetchData';
 import moment from 'moment'
 import * as storage from './fetchCycle'
 
-export default async function getScheduleByDay(studentID: string,
-    datestr: string | number = moment.now(), days: number
+export default async function getScheduleByDay(studentID: string, days: number,
+    datestr: string | number = moment.now()
 ) {
     let res: ISlot[] = [];
     const date = moment(datestr)
