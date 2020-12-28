@@ -7,3 +7,5 @@ export const CAMPUS_CODE = process.env.CAMPUS_CODE || ''
 export const TERM_CODE = process.env.TERM_CODE || ''
 export const PORT = process.env.PORT || 3000
 export const VERIFY_TOKEN = process.env.VERIFY_TOKEN || ''
+export const SENDGRID_APIKEY = process.env.SENDGRID_APIKEY || ''
+export const SENDER_EMAIL_ADDR = process.env.SENDER_EMAIL_ADDR || ''

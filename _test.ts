@@ -1,5 +1,6 @@
 import { diffBetween } from './helper/fetchCycle';
-import getSchedule from './helper/getSchedule'
+import getSchedule from './helper/getSchedule';
+import * as auth from './helper/authCode';
 
 (async () => {
     const c1 = {
@@ -32,7 +33,12 @@ import getSchedule from './helper/getSchedule'
     }
     console.log("Test diff: " + JSON.stringify(diffBetween(c1, c2)))
 
+    /*
     console.time('fetch schedule')
-    console.log(await getSchedule('DE150074', '2021-01-05', 7))
+    console.log(await getSchedule('DE150074', 7))
     console.timeEnd('fetch schedule')
+    */
+    auth.load()
+    console.log(await auth.sendCode('nezumixxi@gmail.com'));
+    auth.close()
 })();
